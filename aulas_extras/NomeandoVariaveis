@@ -1,0 +1,8 @@
+                    Regras de Variáveis:
+
+    1- Nomes de variavéis podem conter apenas letras, numeros e undercores,
+mas não pode comceçar com números.
+    2- Espaços não são permitidos em nomes de variáveis.
+    3- Evite usar nomes de palavras reservadas.
+    4- Tente ser descritivo.
+    5- Letras maiusculas e minusculas são diferentes.
