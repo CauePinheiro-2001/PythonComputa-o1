@@ -4,7 +4,7 @@
 lista = ['item1', 'item2', 'item3', 'cauê']
 
 # Acessar um item da lista:
-print(lista[0],lista[1],lista[2])
+print(lista[0], lista[1], lista[2])
 
 # Acessar o ultimo item da lista:
 print(lista[-1])
